@@ -6,7 +6,7 @@
 
 <body>
 
-<h1> practicing of uploading git hub </h1> s
+<h1> practicing of uploading git hub </h1>
 
 <body> 
 
