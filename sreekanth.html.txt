@@ -1,0 +1,13 @@
+<DOCTYPE! html>
+<head>
+
+
+</head>
+
+<body>
+
+<h1> practicing of uploading git hub </h1> s
+
+<body> 
+
+</html>
